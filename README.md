@@ -1,1 +1,1 @@
-# A complete shopping cart with phpand mysql,html,css,javascript
+# A complete shopping cart with php and mysql,html,css,javascript
